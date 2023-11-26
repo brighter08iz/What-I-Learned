@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+class Main {
     public int solution(String str, char c) {
         int answer = 0;
         str = str.toUpperCase();
